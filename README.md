@@ -8,7 +8,7 @@ You will be implementing a React version of to-do list web app, in which the use
 * reducer functions * 2
 * initialization of store and its binding with all middleware
 
-`The starter code is in the URL: https://github.com/asalpha/react-todo-example/blob/master/index.html`
+`The starter code is in the URL: https://github.com/asalpha/react-todo/blob/master/index.js`
 
 <i> Note that for easier understanding, we have embedded the React with basic HTML all in one file. You are not required to separate them but can just work on this one file code. All the missing functions are marked as `TO IMPLEMENT`</i>
 
